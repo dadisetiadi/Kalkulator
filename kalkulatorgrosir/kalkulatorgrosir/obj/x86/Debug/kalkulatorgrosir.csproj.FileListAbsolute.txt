@@ -1,0 +1,5 @@
+G:\Tugas Pemrog Dasar\kalkulatorgrosir\kalkulatorgrosir\bin\Debug\kalkulatorgrosir.exe
+G:\Tugas Pemrog Dasar\kalkulatorgrosir\kalkulatorgrosir\bin\Debug\kalkulatorgrosir.pdb
+G:\Tugas Pemrog Dasar\kalkulatorgrosir\kalkulatorgrosir\obj\x86\Debug\kalkulatorgrosir.exe
+G:\Tugas Pemrog Dasar\kalkulatorgrosir\kalkulatorgrosir\obj\x86\Debug\kalkulatorgrosir.pdb
+G:\Tugas Pemrog Dasar\kalkulatorgrosir\kalkulatorgrosir\obj\x86\Debug\kalkulatorgrosir.csprojResolveAssemblyReference.cache
